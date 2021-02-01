@@ -78,12 +78,12 @@ testing, and care-taking of any 1 indoor plant.
 ## Reference
 [1] Anusha k, U B Mahadevaswamy,"Automatic IoT Based Plant Monitoring and Watering System
 using Raspberry Pi", International Journal of Engineering and Manufacturing(IJEM), Vol.8, No.6,
-pp.55-67, 2018.DOI: 10.5815/ijem.2018.06.05
+pp.55-67, 2018.DOI: 10.5815/ijem.2018.06.05  
 [2] D. Divani, P. Patil and S. K. Punjabi, "Automated plant Watering system," 2016 International
 Conference on Computation of Power, Energy Information and Communication (ICCPEIC), Chennai,
-2016, pp. 180-182, doi: 10.1109/ICCPEIC.2016.7557245.
-[3] [iot](www.internetofthings.com)
-[4] [raspberryPi](www.Raspberrypi.org)
-[5] [sensors](www.sensors.com)
-[6] [arduino](www.arduino.cc)
-[7] [arduino forum](forum.arduino.cc/)
+2016, pp. 180-182, doi: 10.1109/ICCPEIC.2016.7557245.  
+[3] [iot](www.internetofthings.com)  
+[4] [raspberryPi](www.Raspberrypi.org)  
+[5] [sensors](www.sensors.com)  
+[6] [arduino](www.arduino.cc)  
+[7] [arduino forum](forum.arduino.cc/)  
