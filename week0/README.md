@@ -20,10 +20,8 @@ sunlight, rain and so on.
 
 
 ## Survey
-https://www.deccanherald.com/city/bengaluru-infrastructure/depleting-green-cover-a-grey
--area-of-concern-724779.html
-https://www.treesforcities.org/stories/trees-in-our-cities-10-reasons-we-need-to-plant-mor
-e
+https://www.deccanherald.com/city/bengaluru-infrastructure/depleting-green-cover-a-grey-area-of-concern-724779.html
+https://www.treesforcities.org/stories/trees-in-our-cities-10-reasons-we-need-to-plant-more
 
 
 ## Workflow
