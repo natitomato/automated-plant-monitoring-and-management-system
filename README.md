@@ -127,10 +127,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/natitomato/automated-plant-monitorin-and-management-system](https://github.com/github_username/repo_name)
 
 ##### Authors:
-[Samarth B S](https://github.com/natitomato)
-[Abhay Bhat](https://github.com/Flab-E)
-[Yashas Karthik](https://github.com/YashasKarthik1)
-[Vinayak C s](https://github.com/)
+[Samarth B S](https://github.com/natitomato)  
+[Abhay Bhat](https://github.com/Flab-E)  
+[Yashas Karthik](https://github.com/YashasKarthik1)  
+[Vinayak C s](https://github.com/)  
 
 
 
