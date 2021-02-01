@@ -33,7 +33,7 @@
 <p align="center">
   <h3 align="center">Automated Plant Monitoring And Management System</h3>
   <h2 align="center">**THIS PROJECT IS UNDER DEVELOPEMENT**</h2>
-
+<!--
   <p align="center">
     An automated system to ensure that your plant receives the attention it deserves 24/7
     <br />
@@ -47,10 +47,15 @@
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </p>
+-->
+
+## Phase : 1
+## Week : 0
 
 
 
 <!-- TABLE OF CONTENTS -->
+<!--
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -62,7 +67,7 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
+      <ul >
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -75,7 +80,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
+-->
 
 
 <!-- ABOUT THE PROJECT -->
@@ -90,9 +95,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [arduino](https://www.arduino.cc/)
+* [raspberryPi](https://www.raspberrypi.org/)
+* [Python](https://www.python.org/)
 
 
 
