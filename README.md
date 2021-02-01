@@ -85,12 +85,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+##### Motivation: 
+Automated plant monitor, maintaining and care-taking system with no external effort or human interaction involved. A one-time instalment of portable greenery and mini biomes.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+##### Problem statement: 
+Often we have avoided maintaining even a small garden as it requires maintenance and constant care. To make this easy in the cities where plants are rapidly depleting, we plan on making automated and self-monitoring mini biomes, which are aesthetic as well as easy to install anywhere within our homes. Considering how people have to keep traveling or working away from their home for long hours and will not be able to look after the plants, we intend to normalise biomes in cities with various plants and smaller trees. Added to these, plants also die out even after much care and attention due to the large number of variables involved that change rapidly like weather, humidity, sunlight, rain and so on.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
 ### Built With
@@ -98,48 +98,6 @@ Here's a blank template to get started:
 * [arduino](https://www.arduino.cc/)
 * [raspberryPi](https://www.raspberrypi.org/)
 * [Python](https://www.python.org/)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
 
 
@@ -166,19 +124,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Project Link: [https://github.com/natitomato/automated-plant-monitorin-and-management-system](https://github.com/github_username/repo_name)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
+##### Authors:
+[Samarth B S](https://github.com/natitomato)
+[Abhay Bhat](https://github.com/Flab-E)
+[Yashas Karthik](https://github.com/YashasKarthik1)
+[Vinayak C s](https://github.com/)
 
 
 
