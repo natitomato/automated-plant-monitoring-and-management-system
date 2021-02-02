@@ -130,7 +130,7 @@ Project Link: [https://github.com/natitomato/automated-plant-monitorin-and-manag
 [Samarth B S](https://github.com/natitomato)  
 [Abhay Bhat](https://github.com/Flab-E)  
 [Yashas Karthik](https://github.com/YashasKarthik1)  
-[Vinayak C s](https://github.com/)  
+[Vinayak C s](https://github.com/VinayakHyde)  
 
 
 

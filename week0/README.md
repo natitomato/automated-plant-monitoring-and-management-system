@@ -8,7 +8,9 @@ Automated Plant Monitoring And Management System
 ## Motivation :
 Automated plant monitor, maintaining and care-taking system with no external effort or
 human interaction involved. A one-time instalment of portable greenery and mini biomes.
-Problem statement :
+
+
+## Problem statement :
 Often we have avoided maintaining even a small garden as it requires maintenance and
 constant care. To make this easy in the cities where plants are rapidly depleting, we plan on making
 automated and self-monitoring mini biomes, which are aesthetic as well as easy to install anywhere
