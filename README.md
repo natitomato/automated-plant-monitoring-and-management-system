@@ -92,7 +92,7 @@ Automated plant monitor, maintaining and care-taking system with no external eff
 Often we have avoided maintaining even a small garden as it requires maintenance and constant care. To make this easy in the cities where plants are rapidly depleting, we plan on making automated and self-monitoring mini biomes, which are aesthetic as well as easy to install anywhere within our homes. Considering how people have to keep traveling or working away from their home for long hours and will not be able to look after the plants, we intend to normalise biomes in cities with various plants and smaller trees. Added to these, plants also die out even after much care and attention due to the large number of variables involved that change rapidly like weather, humidity, sunlight, rain and so on.
 
 
-### Components use
+### Components used
 https://docs.google.com/document/d/1BgRl8otz_YRUUAl-i7BCl2X5V7qJZv0WMGSugFi9UyM/edit?usp=sharing  
 
 ### Built With
