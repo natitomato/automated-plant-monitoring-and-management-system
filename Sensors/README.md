@@ -1,1 +1,1 @@
-<h1> Sensor interfacing<\h1>
+<h1 align="centre"> Sensor interfacing</h1>
